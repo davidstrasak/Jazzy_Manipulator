@@ -30,9 +30,23 @@
               "icon": "lucide-file",
               "title": "Design robota"
             }
+          },
+          {
+            "id": "8d634f4bdfeab441",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROS 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ROS 2"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +119,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "file": "ROS 2.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -114,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for ROS 2"
             }
           },
           {
@@ -151,20 +166,21 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "ROS 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of ROS 2"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,10 +192,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb84ac4d46dc482a",
+  "active": "8d634f4bdfeab441",
   "lastOpenFiles": [
-    "Základní architektura.md",
+    "Obrázky/Pasted image 20250206183554.png",
+    "Obrázky/Pasted image 20250206183530.png",
+    "Obrázky/Pasted image 20250206183515.png",
+    "Obrázky/Pasted image 20250206183501.png",
+    "Obrázky/Pasted image 20250206180955.png",
+    "Obrázky/Pasted image 20250206180223.png",
+    "Obrázky/Pasted image 20250206175546.png",
+    "Obrázky/Pasted image 20250206175119.png",
+    "Obrázky/Pasted image 20250206174957.png",
     "Design robota.md",
+    "ROS 2.md",
+    "Základní architektura.md",
     "Obrázky/Pasted image 20250205174951.png",
     "Obrázky",
     "Welcome.md"
