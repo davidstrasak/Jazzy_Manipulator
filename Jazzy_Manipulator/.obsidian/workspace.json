@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROS 2.md",
+                "file": "Simple Publisher.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ROS 2"
+              "title": "Simple Publisher"
             }
           }
         ],
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ROS 2.md",
+                "file": "Simple Publisher.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ROS 2"
+              "title": "Outline of Simple Publisher"
             }
           }
         ],
@@ -189,14 +189,19 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "8d634f4bdfeab441",
   "lastOpenFiles": [
-    "Základní architektura.md",
+    "Vytváření workspacu.md",
+    "Obrázky/Pasted image 20250218204612.png",
+    "Simple Publisher.md",
     "ROS 2.md",
+    "Obrázky/Pasted image 20250205174951.png",
     "Obrázky/Pasted image 20250206183554.png",
+    "Základní architektura.md",
     "Obrázky/Pasted image 20250206183530.png",
     "Obrázky/Pasted image 20250206183515.png",
     "Obrázky/Pasted image 20250206183501.png",
@@ -204,9 +209,7 @@
     "Obrázky/Pasted image 20250206180223.png",
     "Obrázky/Pasted image 20250206175546.png",
     "Obrázky/Pasted image 20250206175119.png",
-    "Obrázky/Pasted image 20250206174957.png",
     "Design robota.md",
-    "Obrázky/Pasted image 20250205174951.png",
     "Obrázky",
     "Welcome.md"
   ]

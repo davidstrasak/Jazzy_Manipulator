@@ -94,3 +94,4 @@ Tyhle package jsou uloženy obecně ve struktuře, která se jmenuje Underlay. J
 Následně si z nich udělám části, který budou pohánět mýho specifickýho robota. Tohle se ukládá do část Overlay - tady jsou packages, který budou mít přednost před těmi obecnými.
 
 V rámci jednoho package je nějakej C++ nebo Python file, Config file a Launch file.
+
